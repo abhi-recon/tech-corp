@@ -1,3 +1,3 @@
 # tech-corp
 
-##Subdomain Takeover By abhibughunt3r@gmail.com
+## Subdomain Takeover By abhibughunt3r@gmail.com
